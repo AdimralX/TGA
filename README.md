@@ -1,4 +1,4 @@
-# TGA
+# TGA adapted for IMgui
 ## Trainings Graphics API
 
 ### Development Environment
