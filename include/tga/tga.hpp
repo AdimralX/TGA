@@ -54,6 +54,8 @@ public:
     void waitForCompletion(CommandBuffer);
 
     void *getMapping(StagingBuffer);
+    struct InternalState;
+    struct InternalState *GetState();
 
     // Window functions
 
@@ -138,7 +140,6 @@ private:
     void endCommandBuffer(CommandBuffer);
 
 private:
-    struct InternalState;
     std::unique_ptr<InternalState> state;
 };
 
@@ -246,6 +247,13 @@ public:
         auto result = cmdBuffer;
         cmdBuffer = {};
         return result;
+    }
+
+    CommandBuffer& getCmdBuffer()
+    { 
+        
+        return cmdBuffer;
+
     }
 
 private:

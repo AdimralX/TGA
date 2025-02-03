@@ -1,0 +1,13 @@
+/home/alvin/Documenets/vulkan_imgui/TGA/CMakeFiles/edit_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/CMakeFiles/edit_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/tga_vulkan/CMakeFiles/tga_vulkan.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/tga_vulkan/CMakeFiles/edit_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/tga_vulkan/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/tga_vulkan/WSI_glfw/CMakeFiles/tga_vulkan_wsi.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/tga_vulkan/WSI_glfw/CMakeFiles/edit_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/tga_vulkan/WSI_glfw/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/utils/CMakeFiles/tga_utils.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/utils/CMakeFiles/edit_cache.dir
+/home/alvin/Documenets/vulkan_imgui/TGA/src/utils/CMakeFiles/rebuild_cache.dir

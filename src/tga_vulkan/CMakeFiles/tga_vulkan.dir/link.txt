@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtga_vulkan.a CMakeFiles/tga_vulkan.dir/tga_vulkan.cpp.o CMakeFiles/tga_vulkan.dir/tga_vulkan_extensions.cpp.o
+/usr/bin/ranlib libtga_vulkan.a

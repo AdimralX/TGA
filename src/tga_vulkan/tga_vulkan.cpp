@@ -1418,6 +1418,11 @@ void Interface::waitForCompletion(CommandBuffer cmdBuffer)
 
 void *Interface::getMapping(StagingBuffer stagingBuffer) { return state->getData(stagingBuffer).mapping; }
 
+struct tga::Interface::InternalState *Interface::GetState()
+{
+    return state.get();
+}
+
 uint32_t Interface::backbufferCount(Window window)
 {
     return static_cast<uint32_t>(state->wsi.getWindow(window).imageViews.size());

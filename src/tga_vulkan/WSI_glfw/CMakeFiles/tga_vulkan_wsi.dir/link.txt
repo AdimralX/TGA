@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtga_vulkan_wsi.a CMakeFiles/tga_vulkan_wsi.dir/tga_vulkan_wsi.cpp.o
+/usr/bin/ranlib libtga_vulkan_wsi.a
